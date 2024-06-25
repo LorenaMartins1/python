@@ -17,7 +17,7 @@ Bem vindo ao meu projeto com o curso de python na Udemy
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto contém as seguintes tecnologias:
 
 - PySide6
 - Django
